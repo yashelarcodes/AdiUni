@@ -52,7 +52,7 @@ form.addEventListener("submit", async (e) => {
   });
 
   // Replace YOUR_API_ID with your SheetDB endpoint ID
-  const sheetdbAPI = "https://sheetdb.io/api/v1/YOUR_API_ID";
+  const sheetdbAPI = "https://sheetdb.io/api/v1/lr95iw2rc25o1";
 
   try {
     const response = await fetch(sheetdbAPI, {
